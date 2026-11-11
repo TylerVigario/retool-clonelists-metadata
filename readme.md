@@ -1,3 +1,15 @@
+> [!NOTE]
+> This fork carries Retool's clone lists forward while Retool is unmaintained, for tools
+> that still read them, such as [oxyROMon](https://github.com/alucryd/oxyromon)'s
+> `import-clone-lists`. It differs from upstream in:
+>
+> - The Redump lists and metadata for 3DO, FM Towns and VideoNow Color are named after
+>   redump.info's systems: `3DO Interactive Multiplayer`, `Fujitsu - FM Towns series` and
+>   `Hasbro - VideoNow Color`.
+> - The community pull requests
+>   [#96](https://github.com/unexpectedpanda/retool-clonelists-metadata/pull/96) to
+>   [#101](https://github.com/unexpectedpanda/retool-clonelists-metadata/pull/101) are merged.
+
 > [!IMPORTANT]
 > Retool is no longer maintained.
 > [Read the thread](https://github.com/unexpectedpanda/retool/issues/337) for more
